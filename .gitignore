@@ -1,0 +1,6 @@
+.deps/
+bin/
+obj/
+dist/
+# Keep release/ tracked: it contains the ZIP for installation from GitHub.
+*.user

@@ -1,0 +1,10 @@
+{
+  "name": "PickupDescriptionPanel",
+  "author": "Shem",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Shemka/RoR2-PickupItemDescriptionMod",
+  "description": "Separate description panel for targeted ground pickups and shop items. Uses the game's language. Toggle with F8.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2121"
+  ]
+}
